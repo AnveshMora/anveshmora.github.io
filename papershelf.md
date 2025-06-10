@@ -56,16 +56,4 @@ permalink: /papershelf/
   
 </style>
 
-<!-- <ul class="post-list">
-    {% for post in site.posts %}
-      <li class="post-list-item">
-        <a href="{{ post.url }}" class="post-link">
-          <div class="post-title">{{ post.title }}</div>
-        </a>
-        <div class="post-excerpt">{{ post.excerpt }}</div>
-        <div class="post-meta">
-          <span class="post-date">📅 {{ post.date | date: "%B %d, %Y" }}</span> | ⏳ {{ post.timetoread }} min read | ✍️ Anvesh Mora
-        </div>
-      </li>
-    {% endfor %}
-</ul> -->
+<h1> Coming soon.. WIP </h1>
