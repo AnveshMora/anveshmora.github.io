@@ -127,13 +127,14 @@ layout: default
 
 <div class="container">
     <div class="title-container">
-        <h1>Welcome to my Page!</h1>
+        <h1>Hi 👋 !</h1>
     </div>
-    <p style="text-align: center">
+    <img src="/assets/favicon.jpeg">
+    <p>
         Hi, this is Anvesh. 
 
         🔭 I’m a Senior Software Engineer. <br/>
-        Active opensource contributer. <br/>
+        Active Open source contributor. <br/>
         🌱 I’m currently working on Entertainment production product, Web3 and AI Agents. <br/>
         😄 Pronouns: He / Him <br/>
         ⚡ Fun fact: My name is an anagram of "Havens" <br/>
