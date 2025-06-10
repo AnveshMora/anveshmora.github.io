@@ -129,16 +129,20 @@ layout: default
     <div class="title-container">
         <h1>Hi 👋 !</h1>
     </div>
-    <img src="/assets/favicon.jpeg">
-    <p>
-        Hi, this is Anvesh. 
-
-        🔭 I’m a Senior Software Engineer. <br/>
-        Active Open source contributor. <br/>
-        🌱 I’m currently working on Entertainment production product, Web3 and AI Agents. <br/>
-        😄 Pronouns: He / Him <br/>
-        ⚡ Fun fact: My name is an anagram of "Havens" <br/>
-    </p>
+    <br/>
+    <div style="display: flex; align-items: center; gap: 20px; justify-content: center; flex-wrap: wrap;">
+        <img src="/assets/favicon.jpeg" alt="Anvesh" style="width: 120px; height: 120px; border-radius: 10px;" />
+    
+        <p style="max-width: 500px; text-align: left;">
+            Hi, this is Anvesh. <br/><br/>
+            🔭 I’m a Senior Software Engineer. <br/>
+            Active Open source contributor. <br/>
+            🌱 I’m currently working on Entertainment production product, Web3 and AI Agents. <br/>
+            😄 Pronouns: He / Him <br/>
+            ⚡ Fun fact: My name is an anagram of "Havens" <br/>
+        </p>
+    </div>
+    
     <!-- <ul class="post-list">
         {% for post in site.posts %}
         <li class="post-list-item" onclick="window.location='{{ post.url }}'">
