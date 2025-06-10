@@ -129,14 +129,14 @@ layout: default
     <div class="title-container">
         <h1>Welcome to my Page!</h1>
     </div>
-    <p>
+    <p style="text-align: center">
         Hi, this is Anvesh. 
 
-        🔭 I’m a Senior Software Engineer.
-        Active opensource contributer.
-        🌱 I’m currently working on Entertainment production product, Web3 and AI Agents.
-        😄 Pronouns: He / Him
-        ⚡ Fun fact: My name is an anagram of "Havens"
+        🔭 I’m a Senior Software Engineer. <br/>
+        Active opensource contributer. <br/>
+        🌱 I’m currently working on Entertainment production product, Web3 and AI Agents. <br/>
+        😄 Pronouns: He / Him <br/>
+        ⚡ Fun fact: My name is an anagram of "Havens" <br/>
     </p>
     <!-- <ul class="post-list">
         {% for post in site.posts %}
