@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Archive
-permalink: /archive/
+title: Paper Shelf
+permalink: /papershelf/
 ---
 <style>
 
