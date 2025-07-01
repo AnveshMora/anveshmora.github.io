@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "💸 How Duolingo Cut Their AWS Bill by 20%"
-date:   2025-04-19 18:19:56 +0530
+date:   2025-07-01 08:44:56 +0530
 categories: MCP
 timetoread: 8
 ---
