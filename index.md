@@ -143,7 +143,7 @@ layout: default
         </p>
     </div>
     
-    <!-- <ul class="post-list">
+    <ul class="post-list">
         {% for post in site.posts %}
         <li class="post-list-item" onclick="window.location='{{ post.url }}'">
             <div class="post-title">{{ post.title }}</div>
@@ -157,7 +157,7 @@ layout: default
     </ul>
     <div class="archive-link">
         <a href="/archive/">All posts...</a>
-    </div> -->
+    </div>
     <!-- <div style="margin-top: 20px; text-align: center;">
         <p>Page Views:</p>
         <img src="https://visitor-badge.glitch.me/badge?page_id=anveshmora.github.io" alt="Visitor Count">
